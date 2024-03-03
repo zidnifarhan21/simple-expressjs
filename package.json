@@ -1,0 +1,14 @@
+{
+  "name": "nodelogin",
+  "version": "1.0.0",
+  "description": "Simple Login App",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "farhan",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^3.9.2"
+  }
+}
